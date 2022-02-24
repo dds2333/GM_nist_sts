@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/prefix1">
+        <file>binary_code.ico</file>
+    </qresource>
+</RCC>
