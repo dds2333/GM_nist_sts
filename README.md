@@ -9,5 +9,5 @@
 
 ## 使用
 
-1) 在 [此处](https://github.com/dds2333/GM_nist_sts/releases) 下载 "Random_Test_Binary_2.0.8.zip"
+1) 在 [Release](https://github.com/dds2333/GM_nist_sts/releases) 下载 "Random_Test_Binary_2.0.8.zip"
 2) 
