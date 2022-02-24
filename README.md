@@ -18,6 +18,6 @@
 - https://github.com/ZZMarquis/nist_sts
 - https://github.com/kravietz/nist-sts
 - https://github.com/dj-on-github/sp800_22_tests
-- https://github.com/dj-on-github/djenrandom
+- https://github.com/dj-on-github/djenrandom （生成伪随机数用于测试）
 
 
